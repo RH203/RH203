@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I'm interested in website development, android development and ios development
 - 📫 How to reach me:
   - Instagram: https://www.instagram.com/raihan.nnn
-- ⚡ Fun fact: I love cats, Gamer, and Anime
+- ⚡ Fun fact: I love cats, Game, and Anime
 
