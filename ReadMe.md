@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently study at Institute of Technology Telkom Surabaya<br>🌱 I’m currently learning Website Dev, Mobile Dev, Java, and Jetpack Compose.<br>💬 Ask me about C/C++, Java, Javascript, HTML, and CSS.
+🔭 I’m currently study at Institute of Technology Telkom Surabaya<br>🌱 I’m currently learning Website Dev, Mobile Dev, Java, , Kotlin, and Jetpack Compose.<br>💬 Ask me about C/C++, Java, Javascript, HTML, and CSS.
 
 
 ## 🌐 Socials:
