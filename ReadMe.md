@@ -66,7 +66,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RH203&theme=dracula&show_icons=true&hide_border=false&count_private=true"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RH203&theme=dracula&hide_border=false"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RH203&theme=dracula&show_icons=true&hide_border=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=RH203&theme=dracula&show_icons=true&hide_border=false&layout=compact"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RH203&theme=dracula&show_icons=true&hide_border=false&layout=compact"  />
 </div>
 
 ###
