@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Webdev and Mobile dev</p>
+<p align="left">📚 I'm very interested about mobile development and machine learning.</p>
 
 ###
 
