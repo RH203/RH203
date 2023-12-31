@@ -27,6 +27,4 @@ src="https://img.shields.io/github/followers/RH203?logo=github&style=for-the-bad
 
 <a href="http://www.github.com/RH203"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RH203&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/RH203"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RH203&bg_color=1e3a8a&color=ffffff&line=ffffff&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/RH203" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RH203&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
