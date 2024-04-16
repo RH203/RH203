@@ -42,6 +42,8 @@
 
 </p>
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Zoy)](https://open.spotify.com/user/31ts5kr2gsmbdq7vy42ywpo2zyta?si=9cb771b1e0604e4a)
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RH203&layout=compact&theme=dracula" alt=RH203 />
 
