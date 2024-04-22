@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RH203&theme=dracula&row=3&column=3" alt="RH203" /></a> </p>
 
-- 🌱 I’m currently learning **flutter, react, react-native, and machine learning**
+- 🌱 I’m currently learning **flutter, react-native, and machine learning**
 
 
 - ⚡ Fun fact **I like cats**
