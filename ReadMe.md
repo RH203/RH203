@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raihan Firdaus</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RH203&label=Profile%20views&color=0e75b6&style=flat" alt="RH203" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RH203&theme=dracula&row=3&column=3" alt="RH203" /></a> </p>
 
 - 🌱 I’m currently learning **flutter, react-native, and machine learning**
 
@@ -27,6 +26,8 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RH203&show_icons=true&locale=en&theme=dracula" alt="RH203" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RH203&theme=dracula" alt="RH203" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RH203&theme=dracula&row=3&column=3" alt="RH203" /></a> </p>
 
 
 
