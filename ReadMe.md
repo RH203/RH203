@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning flutter, react-native, and machine learning<br>
+I am a passionate developer specializing in Flutter and NestJS, with a strong adherence to clean architecture principles and experience in using BLoC for state management. My focus lies in creating dynamic applications while diving into the exciting fields of machine learning and multiplatform development. I enjoy learning new technologies and collaborating on innovative projects that push the boundaries of what's possible.<br>
 
 
 ## 🌐 Socials:
