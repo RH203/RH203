@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a passionate developer specializing in Flutter and NestJS, with a strong adherence to clean architecture principles and experience in using BLoC for state management. My focus lies in creating dynamic applications while diving into the exciting fields of machine learning and multiplatform development. I enjoy learning new technologies and collaborating on innovative projects that push the boundaries of what's possible.<br>
+# 💫 About Me:  
+I am a dedicated developer with expertise in Flutter, Express, and Laravel. I strive to build dynamic and scalable applications, guided by clean architecture principles and a strong understanding of state management using BLoC. While these frameworks are my core strengths, I’m always excited to embrace new challenges and learn unfamiliar technologies to grow as a developer. My passion extends to multiplatform development and exploring the possibilities of machine learning to create innovative solutions.<br>
 
 
 ## 🌐 Socials:
