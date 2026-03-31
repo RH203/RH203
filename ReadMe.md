@@ -8,20 +8,27 @@ Building efficient, scalable web applications and exploring the intersection of 
 ### 💼 Current Focus
 - 🔭 **Working as:** Fullstack Developer
 - 📚 **Deepening:** Spring Boot (Java) & .NET Ecosystem
-- 🧠 **Research Interests:** Natural Language Processing & Deep Learning
+- 🧠 **Research Interests:** NLP, Deep Learning, & Swarm Optimization
 
 ---
 
 ### 🛠 Tech Stack
-- **Backend:** Go, Java (Spring Boot), C# (.NET), Python, PHP (Laravel)
-- **Frontend:** JavaScript, React, Tailwind CSS, Bootstrap
+- **Backend:** Go, Java (Spring Boot), C# (.NET Core), Python, PHP (Laravel)
+- **Frontend:** JavaScript, React, Tailwind CSS, Bootstrap, Vue
 - **Databases:** PostgreSQL, MySQL, SQL Server
-- **Intelligence:** PyTorch, NLP, Swarm Intelligence
+- **Mobile:** Flutter, React Native, Kotlin, KMP
+
+---
+
+### 🔬 Featured Research: Bi-LSTM Sentiment Analysis
+My thesis focused on detecting **Online Gambling Comments** on YouTube using **Bi-LSTM**.
+*   **Key Finding:** Discovered that including **emoji features** significantly improves model accuracy compared to text-only datasets.
+*   **Insight:** Emojis in gambling contexts carry heavy semantic weight that enhances pattern recognition in Deep Learning models.
 
 ---
 
 ### 📄 Connect with Me
-I'm always open to discussing tech, remote work opportunities, or Manchester United's latest match.
+Open for discussions on tech, remote workflows, or Manchester United's tactical setup.
 
 [**📂 Download My Resume**](URL_LINK_RESUME_MU)
 
@@ -31,6 +38,6 @@ I'm always open to discussing tech, remote work opportunities, or Manchester Uni
 
 ---
 <p align="center">
-  <i>"Adaptability is the key to excellence."</i><br>
+  <i>"Focus on the process, the results will follow."</i><br>
   🔴 <b>GGMU</b>
 </p>
